@@ -1,0 +1,9 @@
+.body{font-family: segoe UI,Times New Roman, sans-serif;background-color: azure;}
+.home.section{background-color: white;}
+.div1, .div2, .div3{color:red;}
+.image {width:300px;height:auto;}
+.header {font-size: 600;}
+/* To apply style to the description text of each pages */
+.description {width: 700px;height: auto;}
+.ingredients   {width: 700px;height: auto;color: darkred;background-color: yellow;}
+.steps{width: 700px;height: auto;}
